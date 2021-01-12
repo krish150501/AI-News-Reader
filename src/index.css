@@ -1,0 +1,13 @@
+#root, html , body{
+    height: 100vh;
+}
+body{
+    margin : 0;
+    background:whitesmoke;
+}
+*{
+    box-sizing : border-box;
+}
+html{
+    scroll-behavior:smooth ;
+}
