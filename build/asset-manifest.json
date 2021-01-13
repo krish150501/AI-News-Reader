@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AI-News-Reader/static/css/main.772af41b.chunk.css",
+    "main.js": "/AI-News-Reader/static/js/main.31089ec8.chunk.js",
+    "main.js.map": "/AI-News-Reader/static/js/main.31089ec8.chunk.js.map",
+    "runtime-main.js": "/AI-News-Reader/static/js/runtime-main.e2ec3a12.js",
+    "runtime-main.js.map": "/AI-News-Reader/static/js/runtime-main.e2ec3a12.js.map",
+    "static/js/2.1a65f915.chunk.js": "/AI-News-Reader/static/js/2.1a65f915.chunk.js",
+    "static/js/2.1a65f915.chunk.js.map": "/AI-News-Reader/static/js/2.1a65f915.chunk.js.map",
+    "index.html": "/AI-News-Reader/index.html",
+    "static/css/main.772af41b.chunk.css.map": "/AI-News-Reader/static/css/main.772af41b.chunk.css.map",
+    "static/js/2.1a65f915.chunk.js.LICENSE.txt": "/AI-News-Reader/static/js/2.1a65f915.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2ec3a12.js",
+    "static/js/2.1a65f915.chunk.js",
+    "static/css/main.772af41b.chunk.css",
+    "static/js/main.31089ec8.chunk.js"
+  ]
+}
