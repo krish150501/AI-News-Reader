@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-###Live SERVER
+### `Live SERVER`
+
 open[https://krish150501.github.io/News-Reader-AI/](https://krish150501.github.io/News-Reader-AI/) to visit the live working page
 
 ### `npm start`
